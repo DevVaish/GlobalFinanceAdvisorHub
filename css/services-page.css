@@ -530,6 +530,10 @@
     .service-detail {
         margin-bottom: var(--spacing-lg);
     }
+
+   .service-detail-visual{
+        display: none;
+    }
     
     .service-detail-title {
         font-size: 1.5rem;
